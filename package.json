@@ -1,0 +1,29 @@
+{
+  "name": "ppi---aula01-01-25",
+  "version": "1.0.0",
+  "description": "fazendo o projeto da aula ao vivo numero 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamluizasr/PPI---Aula01-01-25.git"
+  },
+  "keywords": [
+    "http",
+    "servidor",
+    "web"
+  ],
+  "author": "Luiza Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamluizasr/PPI---Aula01-01-25/issues"
+  },
+  "homepage": "https://github.com/iamluizasr/PPI---Aula01-01-25#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
